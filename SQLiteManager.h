@@ -10,7 +10,7 @@
 #import "sqlite3.h"
 
 // just create a branch 
-// Just test git
+// Just test git, merge test
 
 enum errorCodes {
 	kDBNotExists,
